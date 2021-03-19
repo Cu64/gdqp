@@ -1,0 +1,107 @@
+[
+  {
+    "label": "Câu hỏi một?",
+    "choices": [
+      {
+        "value": "Đáp án đúng",
+        "correct": true
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Câu hỏi hai?",
+    "choices": [
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án đúng",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "Câu hỏi ba?",
+    "choices": [
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án đúng",
+        "correct": true
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Câu hỏi bốn?",
+    "choices": [
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án đúng",
+        "correct": true
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Câu hỏi năm?",
+    "choices": [
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      },
+      {
+        "value": "Đáp án đúng",
+        "correct": true
+      },
+      {
+        "value": "Đáp án sai",
+        "correct": false
+      }
+    ]
+  }
+]

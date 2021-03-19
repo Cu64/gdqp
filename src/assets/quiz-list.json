@@ -1,26 +1,8 @@
 [
     {
-      "label": "Maths",
-      "name": "maths",
-      "description": "Questions about maths",
-      "fileName": "maths.json"
-    },
-    {
-      "label": "Egypt",
-      "name": "egypt",
-      "description": "Questions about the ancient Egyptians",
-      "fileName": "egypt.json"
-    },
-    {
-    "label": "Islands",
-    "name": "islands",
-    "description": "Questions about Islands",
-    "fileName": "islands.json"
-    },
-    {
-    "label": "Spices",
-    "name": "spices",
-    "description": "Questions about spices",
-    "fileName": "spices.json"
+    "label": "Ngộ độc thực phẩm",
+    "name": "foodpoisoning",
+    "description": "Những câu hỏi về ngộ độc thực phẩm",
+    "fileName": "foodpoisoning.json"
     }
   ]
