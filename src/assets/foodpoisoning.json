@@ -1,106 +1,106 @@
 [
   {
-    "label": "Câu hỏi một?",
+    "label": "Nguyên nhân nào sau đây có thể dẫn đến ngộ độc thực phẩm?",
     "choices": [
       {
-        "value": "Đáp án đúng",
-        "correct": true
-      },
-      {
-        "value": "Đáp án sai",
+        "value": "Ăn thực phẩm nhiễm khuẩn",
         "correct": false
       },
       {
-        "value": "Đáp án sai",
+        "value": "Ăn thực phẩm chứa chất độc",
         "correct": false
       },
       {
-        "value": "Đáp án sai",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "label": "Câu hỏi hai?",
-    "choices": [
-      {
-        "value": "Đáp án sai",
+        "value": "Ăn thực phẩm gây dị ứng",
         "correct": false
       },
       {
-        "value": "Đáp án sai",
-        "correct": false
-      },
-      {
-        "value": "Đáp án sai",
-        "correct": false
-      },
-      {
-        "value": "Đáp án đúng",
+        "value": "Tất cả các đáp án trên đều đúng",
         "correct": true
       }
     ]
   },
   {
-    "label": "Câu hỏi ba?",
+    "label": "Ý nào sau đây liệt kê đủ các triệu chứng của ngộ độc thực phẩm?",
     "choices": [
       {
-        "value": "Đáp án sai",
+        "value": "Hội chứng gắng sức, Hội chứng phế quản, Hội chứng xung huyết, Hội chứng ứ khí",
         "correct": false
       },
       {
-        "value": "Đáp án đúng",
+        "value": "Hội chứng suy tế bào gan, Hội chứng tắc mật, Hội chứng viêm đa khớp, Hội chứng suy hô hấp cấp",
+        "correct": false
+      },
+      {
+        "value": "Hội chứng nhiễm trùng, Hội chứng tắc ruột, Hội chứng thận hư, Hội chứng thiếu máu",
+        "correct": false
+      },
+      {
+        "value": "Hội chứng nhiễm khuẩn, Hội chứng viêm cấp đường tiêu hóa, Hội chứng mất nước, điện giải",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "Tại sao không nên sử dụng các loại thuốc chống nôn và tiêu chảy khi bị ngộ độc thức ăn?",
+    "choices": [
+      {
+        "value": "Vì khi sử dụng các loại thuốc này thì sẽ có phản ứng có hại đối với cơ thể",
+        "correct": false
+      },
+      {
+        "value": "Vì việc nôn và tiêu chảy là phản ứng tự nhiên của cơ thể để đẩy chất độc ra khỏi cơ thể",
         "correct": true
       },
       {
-        "value": "Đáp án sai",
+        "value": "Vì các loại thuốc này không hiệu quả bằng cơ chế phản vệ của cơ thể",
         "correct": false
       },
       {
-        "value": "Đáp án sai",
+        "value": "Vì những loại thuốc này khố kiếm, đắt tiền",
         "correct": false
       }
     ]
   },
   {
-    "label": "Câu hỏi bốn?",
+    "label": "Loại thuốc nào sau đây nên cẩn thận đối với trẻ nhỏ?",
     "choices": [
       {
-        "value": "Đáp án sai",
+        "value": "Ganidan",
         "correct": false
       },
       {
-        "value": "Đáp án đúng",
+        "value": "Bactrim",
         "correct": true
       },
       {
-        "value": "Đáp án sai",
+        "value": "Cloroxit",
         "correct": false
       },
       {
-        "value": "Đáp án sai",
+        "value": "Ampicilin",
         "correct": false
       }
     ]
   },
   {
-    "label": "Câu hỏi năm?",
+    "label": "Làm sao để đề phòng đối với ngộ độc thực phẩm?",
     "choices": [
       {
-        "value": "Đáp án sai",
+        "value": "Đảm bảo tốt vệ sinh môi trường",
         "correct": false
       },
       {
-        "value": "Đáp án sai",
+        "value": "Chấp hành đầy đủ quy định của Bộ Y tế về vệ sinh an toàn thực phẩm",
         "correct": false
       },
       {
-        "value": "Đáp án đúng",
+        "value": "Giữ vệ sinh ăn uống đối với cá nhân",
+        "correct": false
+      },
+      {
+        "value": "Tất cả các đáp án trên đều đúng",
         "correct": true
-      },
-      {
-        "value": "Đáp án sai",
-        "correct": false
       }
     ]
   }
